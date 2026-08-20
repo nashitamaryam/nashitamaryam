@@ -1,16 +1,23 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**nashitamaryam/nashitamaryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nashita, a Software Engineering student passionate about Python, AI, and Full-Stack Development.
+I enjoy building apps and websites, experimenting with new ideas, and turning concepts into real projects.
 
-Here are some ideas to get you started:
+Tech I'm learning
+Python • JavaScript • React • Node.js • SQL • AI/ML • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+Local Finds — A marketplace for discovering verified local businesses.
+AIRS— An AI-based project focused on solving a real-world problem.
+
+Currently
+Learning Python, DSA, AI/ML & Full-Stack Developmen* and building projects along the way.
+
+Fun Facts:
+I love reading novels
+I can binge-watch shows for hours
+I genuinely enjoy building apps & websites
+I’m always coming up with new project ideas
+
+Build • Learn • Create • Repeat 🚀
+
